@@ -1,0 +1,16 @@
+C:\Richard\bin\Debug\netcoreapp3.1\Richard.exe
+C:\Richard\bin\Debug\netcoreapp3.1\Richard.deps.json
+C:\Richard\bin\Debug\netcoreapp3.1\Richard.runtimeconfig.json
+C:\Richard\bin\Debug\netcoreapp3.1\Richard.runtimeconfig.dev.json
+C:\Richard\bin\Debug\netcoreapp3.1\Richard.dll
+C:\Richard\bin\Debug\netcoreapp3.1\Richard.pdb
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.csprojAssemblyReference.cache
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.Form1.resources
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.Properties.Resources.resources
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.csproj.GenerateResource.cache
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.AssemblyInfoInputs.cache
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.AssemblyInfo.cs
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.csproj.CoreCompileInputs.cache
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.dll
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.pdb
+C:\Richard\obj\Debug\netcoreapp3.1\Richard.genruntimeconfig.cache
